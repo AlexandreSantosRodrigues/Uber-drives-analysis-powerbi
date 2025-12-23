@@ -1,5 +1,4 @@
-🚗 Uber Drives Insight: Mobility Analysis
-Um dashboard de análise de mobilidade pessoal construído com Power BI para examinar padrões de deslocamento baseados em dados reais de corridas de Uber de 2016. Este projeto transforma logs brutos de viagens em uma narrativa sobre eficiência, propósitos de viagem (Negócios vs. Pessoal) e sazonalidade.
+🚗 Uber Drives: Um dashboard de análise de mobilidade pessoal construído com Power BI para examinar padrões de deslocamento baseados em dados reais de corridas de Uber de 2016. Este projeto transforma logs brutos de viagens em uma narrativa sobre eficiência, propósitos de viagem (Negócios vs. Pessoal) e sazonalidade.
 
 O foco principal do projeto foi a Engenharia de Dados (ETL) e a Modelagem Dimensional, garantindo que problemas comuns de formatação de data (padrão US vs. BR) fossem resolvidos na raiz para permitir uma inteligência de tempo robusta.
 
